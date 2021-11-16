@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "aws-sdk": "^2.458.0",
+    "aws-sdk": "^2.814.0",
     "bluebird": "^3.5.4",
     "dotenv": "^8.0.0",
     "yargs": "^13.2.4"
